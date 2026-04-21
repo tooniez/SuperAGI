@@ -98,7 +98,7 @@ pyquery==2.0.0
 pyrsistent==0.19.3
 pytest==7.3.2
 python-dateutil==2.8.2
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 python-multipart==0.0.6
 pytz==2023.3
 PyYAML==6.0
