@@ -68,7 +68,7 @@ kombu==5.2.4
 llama-index==0.6.35
 log-symbols==0.0.14
 loguru==0.7.0
-lxml==4.9.2
+lxml==6.1.0
 Mako==1.2.4
 MarkupSafe==2.1.2
 marshmallow==3.19.0
